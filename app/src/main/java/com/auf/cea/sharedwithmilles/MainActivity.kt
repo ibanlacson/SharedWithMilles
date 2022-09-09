@@ -12,5 +12,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         binding.textView.text = "Sup g?"
+
+        val str = "Hi milles try ko lang"
     }
 }
